@@ -1,3 +1,3 @@
-# CSCI 141 Project 1
+# CSCI 141 Project 2
 
-Using BFS and DFS, solves the quickest way from one time on a clock to another
+Solves the quickest way from one time on a clock to another using BFS and DFS
